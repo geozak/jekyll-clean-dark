@@ -4,9 +4,10 @@ Jekyll Clean Dark
 This theme was created on top of Jekyll Clean Dark and Jekyll Clean theme by Streetturtle and Scotte (respoctively), you can view the original versions in action on their blogs: [streetturtle's](http://pavelmakhov.com) and [scotte's](https://scotte.github.io).
 
 * Get it from [github](https://github.com/geozak/jekyll-clean-dark).
+* See the [live demo](https://geozak.github.io/jekyll-clean-dark/).
+
 <!---
-* See the [live demo](http://pavelmakhov.com/jekyll-clean-dark).
-* See it [in action on my own blog](http://pavelmakhov.com).
+* See it [in action on my own blog](https://geozak.github.io/blog/).
 -->
 
 This theme uses some parts of Twitter Bootstrap, which allows it to look nice on a mobile devices using a collapsable nav bar and hiding the
