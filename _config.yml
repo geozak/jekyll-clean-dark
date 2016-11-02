@@ -4,7 +4,7 @@ name: Blog Name
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://geozak.github.io
+url: https://geozak.github.io
 #url: http://jekyll.dev
 #url: http://localhost:4000
 
