@@ -4,7 +4,10 @@
   <div class="content">
     <div class="container container-center">
       <div class="row">
-        <div class="col-md-8">
+      <div class="col-md-3 hidden-xs">
+          {% include sidebar.html %}
+        </div>
+        <div class="col-md-9">
           <div class="article">
             <div class="well">
               <h1><a href="{{ site.url | append:site.baseurl | append:page.url }}">{{ page.title }}</a></h1>
@@ -32,9 +35,6 @@
               {% endif %}
             </div>
           </div>
-        </div>
-        <div class="col-md-4 hidden-xs">
-          {% include sidebar.html %}
         </div>
       </div>
     </div>
