@@ -1,7 +1,7 @@
 Jekyll Clean Dark
 ============
 
-This theme was created on top of Jekyll Clean Dark and Jekyll Clean theme by Streetturtle and Scotte (respoctively), you can view the original versions in action on their blogs: [streetturtle's](http://pavelmakhov.com) and [scotte's](https://scotte.github.io).
+This theme was created on top of Jekyll Clean Dark and Jekyll Clean theme by Streetturtle and Scotte (respectively), you can view the original versions in action on their blogs: [streetturtle's](http://pavelmakhov.com) and [scotte's](https://scotte.github.io).
 
 * Get it from [github](https://github.com/geozak/jekyll-clean-dark).
 * See the [live demo](https://geozak.github.io/jekyll-clean-dark/).
