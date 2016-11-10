@@ -14,7 +14,7 @@ tags:
  
 #### [Google Analytics](http://www.google.com/analytics/)
 
-To enable Google Analytics create an account [here](https://analytics.google.com). Then add your tracking id in `config.xml`, it should look something like `UA-********-1`
+To enable Google Analytics create an account [here](https://analytics.google.com). Then add your tracking id in `_config.yml`, it should look something like `UA-********-1`
  
 #### [Yandex Metrica](http://metrica.yandex.com)
  
@@ -36,4 +36,4 @@ And then before pushing your changes to github copy generated folder `/_site/tag
 
 ## Comments
 
-To enable [Disqus](http://disqus.com) register on the site and then just put your name in `_config.xml`. Comments could be switched on and off on per post basis, just put `comments: true` to enable them.
+To enable [Disqus](http://disqus.com) register on the site and then just put your name in `_config.yml`. Comments could be switched on and off on per post basis, just put `comments: true` to enable them.
